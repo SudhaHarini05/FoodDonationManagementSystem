@@ -7,7 +7,7 @@ This project is built using HTML, CSS, and JavaScript, and uses localStorage to 
 
 🚀 Live Demo
 
-👉 https://SudhaHarini05.github.io/food-donation-system/
+👉  https://sudhaharini05.github.io/FoodDonationManagementSystem/
 
 🛠️ Tech Stack
 HTML5
@@ -37,7 +37,7 @@ food-donation-system/
 └── script.js         # Application logic
 ⚙️ How to Run Locally
 Download or clone the repository:
-git clone https://github.com/your-username/food-donation-system.git
+git clone https://github.com/SudhaHarini05/food-donation-system.git
 Open the folder in VS Code
 Install Live Server extension
 Run:
