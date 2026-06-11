@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="renderAdminTable()">
+
+<div class="navbar">
+    <h2>Admin Dashboard</h2>
+    <a href="index.html">Logout</a>
+</div>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Manage Donations</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Food</th>
+                    <th>Qty</th>
+                    <th>Location</th>
+                    <th>Expiry</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody id="adminData"></tbody>
+        </table>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
